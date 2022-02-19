@@ -1,0 +1,24 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+
+}
+h5{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: #DF6951;
+}
+
+.nametag{
+    font-family: 'Volkhov', serif;
+    font-weight: 700;
+    font-size: 84px;
+    color: #181E4B;
+}
+.kalimat1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 700px;
+    color: #5E6282;
+}
+
